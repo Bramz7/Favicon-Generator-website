@@ -48,7 +48,7 @@ Links to how I carrried out this project:
 
 | Links                           | Applications                                                                                               |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- |
-|  <a href="https://www.figma.com/file/GXumf5kE5GpBzONYjwI777/Team-61_FaviconGen_Figma-Board(Sketches%2C-Design-Process-and-Wireframes)?node-id=0%3A1">Figma Board(Sketches/Design process and Wireframes </a> | `Figma` 
+|  <a href="https://https://www.figma.com/file/WyCG9F15WkEUj2BNzs6N7i/Favicon-Generator-Website?node-id=0%3A1">Figma Board(High Fidelity designs)</a> | `Figma` 
 |  <a href="https://docs.google.com/document/d/1jYRDjfemjcdwbSf-1EUHfGZfJd5w4qwP_8_4cwW6_eQ/edit?usp=sharing" target="_blank">Code/Database Schema </a>         | `Google Doc`
 |  <a href="https://docs.google.com/document/d/1h7ol75ae1TyfFx5nAH65R7BK88G9XE1cAjl5Egf4zXs/edit?usp=sharing" target="_blank">Documentation </a>         | `Google Doc`
 
