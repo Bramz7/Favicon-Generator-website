@@ -49,7 +49,7 @@ Links to how I carrried out this project:
 | Links                           | Applications                                                                                               |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------- |
 |  <a href="https://https://www.figma.com/file/WyCG9F15WkEUj2BNzs6N7i/Favicon-Generator-Website?node-id=0%3A1">Figma Board(High Fidelity designs)</a> | `Figma` 
-|  <a href="https://docs.google.com/document/d/1h7ol75ae1TyfFx5nAH65R7BK88G9XE1cAjl5Egf4zXs/edit?usp=sharing" target="_blank">Documentation </a>         | `Google Doc`
+|  <a href="https://docs.google.com/document/d/1i9olT3zw_lhVtxV8ydqbyBbrC9jN9eneyq4UzUFcpsg/edit?usp=sharing">Documentation </a>         | `Google Doc`
 
 #To-do list for frontend dev: Fork the repo and save a copy to your personal repo and them clone it to your local machine. Thereafter, open up a new terminal in the project directory and #Run: npm run dev to be sure that everything is working fine. Make changes and create a new branch develop. Commit changes and make  pull requests and push. Open your github account, find the project and compere for a pull.
 hint: You should see a message of this format:: Server running at http://localhost:51215 ✨ Built in 669ms after running npm run dev on the terminal. 
