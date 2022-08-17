@@ -54,10 +54,5 @@ Links to how I carrried out this project:
 #To-do list for frontend dev: Fork the repo and save a copy to your personal repo and them clone it to your local machine. Thereafter, open up a new terminal in the project directory and #Run: npm run dev to be sure that everything is working fine. Make changes and create a new branch develop. Commit changes and make  pull requests and push. Open your github account, find the project and compere for a pull.
 hint: You should see a message of this format:: Server running at http://localhost:51215 ✨ Built in 669ms after running npm run dev on the terminal. 
 
-This will be a proof that everything is working well
-
-![image](https://user-images.githubusercontent.com/52868184/182035776-71176e0c-014d-44c3-acb9-40ba6efc1a9e.png)
-
-
 
 ## Author's :page_with_curl:
