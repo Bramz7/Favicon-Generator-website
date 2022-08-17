@@ -1,6 +1,6 @@
 # Favicon generator website
 
-In this project, I am to create a website that generates favicon, I researchED on how this project will be done and how it will be implemented. I practiced using `Figma`, for the design  `HTML`, `CSS`, `JavaScript`, and `Python` methods for development.
+In this project, I am to create a website that generates favicon, I researched on how this project will be done and how it will be implemented. I practiced using `Figma`, for the design  `HTML`, `CSS`, `JavaScript`, and `Python` methods for development.
 
 
 ## Runing Project Locally
