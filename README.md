@@ -1,6 +1,6 @@
 # Project- Favicon-Gen-Team-61
 
-In this project, We are required to create a website that generates favicon, We have research on how this project will be done and how it will be implemented. We practiced using `Figma`, for the design  `HTML`, `CSS`, `JavaScript`, and `Python` methods for development.
+In this project, I am to create a website that generates favicon, I researchED on how this project will be done and how it will be implemented. I practiced using `Figma`, for the design  `HTML`, `CSS`, `JavaScript`, and `Python` methods for development.
 
 
 ## Runing Project Locally
@@ -69,40 +69,3 @@ This will be a proof that everything is working well
 
 
 ## Author's :page_with_curl:
-
-| DESIGNERS                           | DEVELOPERS                                                                                               |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------- |
-|  <a href="#" target="_blank">ISIBOR OSASUMWEN PRECIOUS (TEAM LEAD) </a>    | <a href="#" target="_blank">AGINHAM ABRAHAM SOMTOCHUKWU (ASS. TEAM LEAD) </a> 
-|  <a href="#" target="_blank">VICTOR AKO-ATULOMAH</a>  | <a href="#" target="_blank">HASHIM HIKMAH</a> |
-| <a href="#" target="_blank">CHUKWUDIRE PRINCES</a> | <a href="#" target="_blank">ARMSTRONG</a> 
-|  <a href="#" target="_blank">ADEDFOLAHAN OMOLOJU</a>   | <a href="#" target="_blank">OLALEKAN N. ASAAJU</a>
-|  <a href="#" target="_blank">PHILIP OLUWA TIMILEYIN</a>   | <a href="#" target="_blank">TOBILOBA LAWAL</a>
-|  <a href="#" target="_blank">MMENIM MATHIAS</a> | <a href="#" target="_blank">JOSHUA EMMANUEL</a>
-| <a href="#" target="_blank">ELIZABETH SILAS</a>  | <a href="#" target="_blank">PRINCE OSIOHWO</a>
-|  <a href="#" target="_blank">ADEBAYO SOLOMON</a>  | <a href="#" target="_blank">CHARLES YOMI</a>
-|  <a href="#" target="_blank">OLOWA TOMIWA ADE-OLUNUSI</a>  | <a href="#" target="_blank">OJE DOMINION</a>
-|  <a href="#" target="_blank">ANIELILA INETIMI</a>  | <a href="https://www.github.com/Izimartin/" target="_blank">MARTINS AKHIVBAREME</a>
-|  <a href="#" target="_blank">CYNTHIA KELECHI ONWUJEKWE</a>  | <a href="#" target="_blank">GEORGE EKEKWE</a>
-|  <a href="#" target="_blank">OLOYEDE OYINDASOLA</a>  | <a href="#" target="_blank"></a>
-|  <a href="#" target="_blank">OSATUYI FLORA</a>  | <a href="#" target="_blank"></a>
-|  <a href="#" target="_blank">OJO HAPPINESS TAIWO</a>  | <a href="#" target="_blank"></a>
-|  <a href="#" target="_blank">FAVOUR TITUS</a>  | <a href="#" target="_blank"></a>
-
-<p align="center">
-<img src="https://github.com/Izimartin/Zuriboard_Internship/blob/main/favicon-logo-removebg-preview.png?raw=true"
-       alt="Favicon-Gen Logo"
-  >
-</p>
-
-## Acknowledgements :pray:
-
-All work contained in this project was completed as part of the curriculum for
-Zuri Training in Partnership with Ingresive For Good. Zuri Training is an online program that prepares students for careers in the tech industry
-using project-based peer learning. For more information, visit
-[this link](https://training.zuri.team///).
-
-<p align="center">
-  <img src="https://res.cloudinary.com/zuri-team/image/upload/zuriboard/tenant-logo/wmqxdxt4skv05wsvc21o.png"
-       alt="Zuri Logo"
-  >
-</p>
