@@ -1,4 +1,4 @@
-# Project- Favicon-Gen-Team-61
+# Favicon generator website
 
 In this project, I am to create a website that generates favicon, I researchED on how this project will be done and how it will be implemented. I practiced using `Figma`, for the design  `HTML`, `CSS`, `JavaScript`, and `Python` methods for development.
 
@@ -42,7 +42,7 @@ SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET='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'
 
 
 
-## Our Work:
+## My Work:
 
 Links to how I carrried out this project:
 
